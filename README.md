@@ -1,1 +1,1 @@
-# oagyo-final-project-emb-ai
+# Final Project - AI-Based Web Application Development
